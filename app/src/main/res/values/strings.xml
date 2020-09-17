@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Parenty</string>
+    <string name="newUser">Not a Member yet? <u>Sign Up</u> here.</string>
+    <string name="forgotpassword"> <u>Forgot Password?</u> </string>
+    <string name="lbl_enter_otp">Enter OTP</string>
+    <string name="lbl_submit">SUBMIT</string>
+    <string name="msg_manual_otp">(Enter the OTP below in case if we fail to detect the SMS automatically)</string>
+    <string name="msg_sit_back"><![CDATA[Sit back &amp; Relax! while we verify your mobile number]]></string>
+    <string name="msg_usertypecheck">Is this child\'s phone ?</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="disguise_note">Note: Child will always see aboce screen. To go to login page parent can enter his/her mobile no in feedback message and click submit. Only then can the parent login using this device. </string>
+
+    <!--error strings-->
+    <string name="name_error">Enter a valid name</string>
+    <string name="email_error">Enter a valid email</string>
+    <string name="mobile_error">Enter a valid mobile</string>
+    <string name="date_error">Enter a valid date</string>
+    <string name="age_error">Enter a valid age</string>
+    <string name="err_password_confirmation">Paswword and confirm password dont match</string>
+</resources>
